@@ -2,10 +2,10 @@
 fake API test on github.
 https://my-json-server.typicode.com/
 
-Limits
+## Limits
 
-Changes are faked and aren't persisted (just like JSONPlaceholder)
-Requests are cached (1 minute)
-db.json has limits
-All servers are public
-Private GitHub repositories aren't supported (yet)
+1. Changes are faked and aren't persisted (just like JSONPlaceholder)
+2. Requests are cached (1 minute)
+3. db.json has limits
+4. All servers are public
+5. Private GitHub repositories aren't supported (yet)
