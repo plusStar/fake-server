@@ -1,4 +1,8 @@
 # fake-server
+Free fake API for testing and prototyping.
+https://jsonplaceholder.typicode.com/
+
+
 fake API test on github.
 https://my-json-server.typicode.com/
 
